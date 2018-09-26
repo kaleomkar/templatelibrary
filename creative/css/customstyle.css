@@ -1,0 +1,109 @@
+
+/* Background
+   ------------------------------------------------------------------ */
+        
+		html{ 
+			background-color: #ffffff ; 
+		}
+		body{
+			background: #ffffff ; 
+		}
+        
+  
+
+
+
+a, .e-commerce-list li a {
+   color:#809F14}
+#main-header input[type="submit"], .post-date2, .slide2-caption, .h-line, .post-date, .sub-menu li:hover, .sub-menu li.sfHover, .more-btn,.download-btn, .side-holder h2, .top-nav li a:hover,
+.top-nav li a.active, .summary .button , .btn-now  {
+    background: #809F14!important}
+.cp-button, .btn, #submit, .button {
+    background: #809F14}
+
+div.portfolio-thumbnail-image-hover, .pagination a:hover, .pagination span.current, .bb-custom-content , .heading-style-1 h2::before , .features-box:hover , .timer-box , .new-arrivals-section form button[type="submit"] , .product-tab .nav-tabs > .active > a, .product-tab .nav-tabs > .active > a:hover , .product-tab .nav > li > a:hover , .author-social li a:hover , .blog-testimonials-section .blog-box .frame strong.date , .author-year-section .owl-buttons [class*="owl-"]:hover , .blog-testimonials-section .owl-buttons [class*="owl-"]:hover , .limited-time-offer .owl-buttons [class*="owl-"]:hover{
+	background-color: #809F14!important}
+.row-fluid .wellcome-msg[class*="span"], .author-img-holder, .Featured-Author, body, #main-header .navbar-inverse .nav > li > a:hover  {
+    border-color:#809F14!important}
+.features-books .slide:hover  {
+    border-color:#809F14!important}
+ul.tabs li a.active , .features-box .fa , .top-book-box .text-box em , .btm-col ul li a , .blog-testimonials-section .blog-box:hover .text-box h3 a , .top-book-box .text-box strong.cut-price{
+    color:#809F14!important}
+ a.cp-button, input[type="submit"], input[type="reset"], input[type="button"], .shop-btn a {
+    background-color: #809F14}
+.portfolio-thumbnail-slider .cp-title, .blog-thumbnail-slider .cp-title {
+      color:#809F14}
+ h1, h2, h3, h4, h5, h6, .cp-title, .b-post h3 a, .main-slider .cp-title > a , .testimonials .title span, .wellcome-msg p, .testimonials .title span, .author-det-box .title2 , .cart-btn2 a, div.product .product_title, #content div.product .product_title{
+   color:#809F14}
+ .e-commerce-list .widgettitle {
+      color:#809F14}
+ 
+ span.onsale {
+    border-color: #809F14 transparent transparent;
+ }
+ 
+ .woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active {
+   border-color: #809F14 transparent transparent !important;
+}
+ 
+ 
+/* RTL funtion
+   ------------------------------------------------------------------ */
+				   
+
+
+body {
+	text-align:disable;
+}
+ 
+/* Font Size
+   ------------------------------------------------------------------ */
+body{
+	font-size: 12px !important;
+}
+h1{
+	font-size: 30px !important;
+}
+h2{
+	font-size: 25px !important;
+}
+h3{
+	font-size: 20px !important;
+}
+h4{
+	font-size: 18px !important;
+}
+h5{
+	font-size: 16px !important;
+}
+h6{
+	font-size: 15px !important;
+}
+
+
+/* Font Family 
+  ------------------------------------------------------------------ */
+body{
+	font-family: default -;
+}
+
+h1, h2, h3, h4, h5, h6, .cp-title{
+	font-family: Droid Serif;
+}
+.wellcome-msg h2 { font-family: ; }
+
+#nav a, .top-nav a, .user-login-link{ font-family: default -; }
+
+#wp-calendar td, #wp-calendar th, .post h4, .tech-text, ul#nav, .box, .footer-tweet, .box h5, .right-heading span, .worship, .vies-calender, .news-heading, ul.pagination, .prayer-box, .posted, .prayer-heading, .prayer-heading span, .share-request, .blog-holder, .post-title, .blog-date, .title, .txt-widget, .txt-widget h4, .btn, .name, .map-view, .event-comment, .comment-post li, .blog-comments, .add-comment, .post-heading, .tags a, ul.tabs-content, div.comment-wrapper #reply-title, h3.accordion-header-title, div.blog-item-holder .blog-item2 .post-title, div.contact-form-wrapper ol li input, div.contact-form-wrapper textarea, .detail, .inner-heading, .event-slider-caption .left, .info-heading, .event-slider-button, #wp-calendar caption {
+   font-family: Droid Serif;
+}  
+
+html, body, div, span, applet, object, iframe, p, blockquote, pre, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, .wellcome-msg p {
+   font-family: default -;
+}
+/* Font Color
+   ------------------------------------------------------------------ */
+
+
+
+ 
